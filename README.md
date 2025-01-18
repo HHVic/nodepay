@@ -3,7 +3,7 @@ nodepay脚本
 
 ## 1. 安装
 ```shell
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## 2. 使用
 进入2captcha官网注册账号生成apikey并充值 https://2captcha.com/zh
